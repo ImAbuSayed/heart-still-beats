@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-still-beats/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Heart Still Beats](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-still-beats/) |
+| **Get License** | [Get a Licensing Quote for Heart Still Beats](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-still-beats/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull me a little closer, let the evening slowly fade
+> We’ve got all this velvet midnight, and the promises we’ve made
+> I can feel your steady heartbeat keeping time right next to mine
+> Pour another glass of bourbon, let our shadows intertwine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
