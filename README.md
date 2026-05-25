@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-still-beats/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Heart Still Beats](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-still-beats/) |
+| **Get License** | [Secure Licensing Rights for Heart Still Beats](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-still-beats/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8128a2e567d942a6b8e87e255a95136e651478e431e35d3155babb759ad517df` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

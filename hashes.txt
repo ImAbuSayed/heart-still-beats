@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heart Still Beats
+
+This log tracks the cryptographic history and versioning for the song **Heart Still Beats** (heart-still-beats).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:39:02.772553 | `v1` | `8128a2e567d942a6b8e87e255a95136e651478e431e35d3155babb759ad517df` | `c29ffba72324fb0e713792d76eaf56e139638e11a29bcd56196b2b6136162618` | `2026-05-25_heart-still-beats-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
